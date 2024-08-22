@@ -1,0 +1,13 @@
+/* DOCTORS PAGE */
+
+
+.doctor-container{ 
+    grid-area: main;
+    overflow-y: auto;
+    padding: 20px 20px;   
+}
+
+
+
+
+/* DOCTORS PAGE END */
